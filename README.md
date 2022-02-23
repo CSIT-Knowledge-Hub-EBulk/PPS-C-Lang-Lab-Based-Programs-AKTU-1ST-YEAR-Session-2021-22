@@ -1,2 +1,4 @@
-# PPS-C-Lang.-Lab-Based-Programs-AKTU--KCS-151P-KCS-251P-
-PPS-C-Lang.-Lab-Based-Programs-AKTU-(KCS-151P KCS-251P)
+REVISED FIRST YEAR SYLLABUS 2020-21 Curriculum & Evaluation Scheme (I & II semester) 
+KCS-151P KCS-251P PROGRAMMING FOR PROBLEM SOLVING
+ 0L:1T:2P 1 Credit KCS151P- Programming for Problem Solving Lab Course Outcome
+ ( CO) Bloom’s Knowledge Level (KL) At the end of course , the student will be able to: CO 1 Able to implement the algorithms and draw flowcharts for solving Mathematical and Engineering problems. K3, K4 CO 2 Demonstrate an understanding of computer programming language concepts. K3, K2 CO 3 Ability to design and develop Computer programs, analyzes, and interprets the concept of pointers, declarations, initialization, operations on pointers and their usage. K6, K4 CO 4 Able to define data types and use them in simple data processing applications also he/she must be able to use the concept of array of structures. K1, K5 CO 5 Develop confidence for self education and ability for life-long learning needed for Computer language. K3, K4 
