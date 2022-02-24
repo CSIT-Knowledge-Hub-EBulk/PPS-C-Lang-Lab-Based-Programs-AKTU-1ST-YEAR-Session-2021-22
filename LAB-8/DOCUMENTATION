@@ -1,0 +1,9 @@
+LAB 8
+34 Write a program to compare two given dates. To store a date uses a structure that contains three 
+members namely day, month and year. If the dates are equal then display message equal otherwise 
+unequal. 
+35 Define a structure that can describe a hotel. It should have the member that includes the name, 
+address, grade, room charge and number of rooms. Write a function to print out hotel of given grade 
+in order of room charges.
+36 Define a structure called cricket with player name, team name, batting average, for 50 players & 5 
+teams. Print team wise list contains names of player with their batting average. 
